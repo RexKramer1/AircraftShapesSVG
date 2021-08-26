@@ -1,4 +1,4 @@
-# AircraftShapesSVGDev
+# AircraftShapesSVG
 
 Aircraft shapes (Top View) for ADSB-Viewers in SVG-Format
 
