@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80mm"
+   height="80mm"
+   viewBox="-16 -13 80 80"
+   version="1.1"
+   id="svg1542"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="B767-300(WL).svg">
+  <defs
+     id="defs1536" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="138.23674"
+     inkscape:cy="116.72271"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+<metadata
+     id="metadata1539">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>RexKramer1</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>GNU General Public License v3.0</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Outline">
+    <path
+       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 24.321527,-1.1504339e-5 23.352675,1.135884 l -0.835218,1.6370259 -0.50113,2.3051995 -0.200452,1.6704347 0.03341,11.1919119 -0.26727,0.50113 -3.708364,2.572469 c 0.0018,-0.286141 0.08698,-0.425296 0.167041,-0.684876 l 0.0167,-2.188269 -0.183747,-0.451017 -0.618061,-0.100226 -1.286235,0.03341 -0.417609,0.150339 0.05011,0.03341 -0.133634,0.317383 -0.08352,1.219417 v 0.734991 l 0.100226,1.119191 0.100226,0.133635 0.200452,0.05011 0.0167,0.751696 0.100227,0.183747 -13.9481287,9.521477 -1.15259983,1.119193 -0.66817383,2.321904 -0.0167043,1.069078 0.71828686,-1.45328 0.3674956,-0.384199 0.8185129,-0.384201 5.2117556,-2.188268 1.937704,-0.684879 0.016703,0.283974 0.1837478,-0.0167 0.016703,-0.384201 3.6916609,-1.26953 0.133635,0.434314 0.167043,-0.01669 0.150339,-0.534535 2.255087,-0.868627 1.553504,-0.400905 0.985556,-0.06682 0.08352,0.41761 0.150339,0.06681 0.03341,-0.517835 3.240643,-0.334086 0.01671,11.659634 0.167043,1.319644 0.417608,3.107007 -0.200452,0.785104 -6.731851,5.178348 -0.106132,0.09212 0.03932,1.578315 8.068199,-2.03793 0.484426,1.302938 0.133634,0.133636 0.167045,1.319644 0.200451,-1.386462 0.233862,-0.334087 0.334087,-1.035669 8.135017,2.03793 -0.01669,-1.553504 -6.832076,-5.445617 -0.183748,-0.551244 0.438366,-3.105532 0.09617,-1.371231 V 27.979795 l 3.257346,0.41761 0.133636,0.467723 h 0.133633 l 0.05012,-0.45102 1.00226,0.100227 1.553504,0.451017 2.221677,0.7684 0.200454,0.56795 h 0.167042 l 0.05012,-0.434314 3.69166,1.302938 0.08352,0.384201 h 0.133635 l 0.05011,-0.30068 7.14946,2.839739 0.868627,0.451019 0.317381,0.267269 0.684879,1.469982 0.03341,-1.169305 -0.53454,-1.453276 -0.551244,-1.085784 -0.785104,-0.801809 -13.948129,-9.387841 -0.05011,-0.167043 0.08352,-0.150339 0.01669,-0.551244 0.400904,-0.267269 0.08352,-0.584652 -0.03341,-2.03793 -0.100227,-0.668174 -0.35079,-0.3842 -1.753957,0.01671 -0.283975,0.167043 -0.167042,0.701582 0.05011,1.787365 0.11693,0.734992 -3.725067,-2.539064 -0.233861,-0.534539 9e-6,-11.1752078 L 26.52651,5.0781409 26.042081,2.9733935 25.256977,1.1192112 Z"
+       id="path1414"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
