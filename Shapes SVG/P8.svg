@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
-   sodipodi:docname="P8.svg"
+   sodipodi:docname="P8 mit Bitmap.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -16,7 +16,8 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"><sodipodi:namedview
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title550">Boeing P-8 Poseidon</title><sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -27,15 +28,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="4"
-     inkscape:cx="146.375"
-     inkscape:cy="165.625"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="146.19433"
+     inkscape:cy="165.28621"
      inkscape:window-width="1920"
      inkscape:window-height="1121"
      inkscape:window-x="2391"
      inkscape:window-y="140"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5"><inkscape:grid
+     inkscape:current-layer="layer2"><inkscape:grid
        type="xygrid"
        id="grid9" /></sodipodi:namedview><defs
      id="defs2" /><g
@@ -54,5 +55,5 @@
        id="path1216"
        style="fill:none;stroke:#000000;stroke-width:0.264583"
        d="m 18.973009,38.880611 -0.245554,-2.093055 -0.116931,-4.092565 0.304019,-3.788546 0.397564,3.788547 -0.07016,4.127643 z m 1.19269,-4.443356 -0.783434,3.098654 m -1.648718,-3.063576 0.876978,3.028498 m 2.245064,-23.128836 0.03508,7.062597 m -3.870398,-6.933974 0.04677,6.922281 m 6.977357,-4.41958 5.233789,2.836003 m -6.275586,-3.323828 0.463021,0.314192 m 0.396875,0.677995 0.23151,-0.595312 -0.115755,-2.083594 -0.198437,-0.214974 -0.28112,0.248047 -0.04961,2.447396 m -8.929687,-0.578777 0.529166,-0.330729 m -1.058333,1.141016 -0.132292,-0.578776 0.115755,-2.10013 0.248047,-0.148828 0.198438,0.148828 0.115755,2.513541 m -5.9365885,2.447396 5.2255205,-2.811198 m 6.278032,-13.6321804 -0.0723,-0.0029 -0.150812,-0.620649 -0.307424,-0.37703 -0.423434,-0.24942 -0.127426,-0.0058 -0.003,-0.327704 0.159398,0.0029 0.440836,0.284223 0.202509,0.356798 0.200093,0.498885 z m 1.80117,-1.935394 m 2.554104,-1.32574101 m -6.633565,3.26246001 0.0723,-0.0029 0.150812,-0.620649 0.307424,-0.37703 0.423434,-0.24942 0.127426,-0.0058 0.003,-0.327704 -0.159398,0.0029 -0.440835,0.284223 -0.20251,0.356798 -0.200093,0.498885 z m -1.80117,-1.935394 M 13.469333,0.11959659" /></g><metadata
-     id="metadata1189"><rdf:RDF><cc:Work
-         rdf:about=""><dc:creator><cc:Agent><dc:title>RexKramer1</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>GNU General Public License v3.0</dc:title></cc:Agent></dc:rights></cc:Work></rdf:RDF></metadata></svg>
+     id="metadata548"><rdf:RDF><cc:Work
+         rdf:about=""><dc:creator><cc:Agent><dc:title>RexKramer1</dc:title></cc:Agent></dc:creator><dc:rights><cc:Agent><dc:title>GNU General Public License v3.0</dc:title></cc:Agent></dc:rights><dc:title>Boeing P-8 Poseidon</dc:title></cc:Work></rdf:RDF></metadata></svg>
